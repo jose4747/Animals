@@ -1,6 +1,7 @@
 # Animals
 
-NAME:URK22CO2001 NAME:URK22CO3021
+NAME:JOSE ANTONY URK22CO2001 
+NAME:JOHN HENIN URK22CO3021
 
 We performed data cleaning,analysis,visualisation and manipulation using pandas,numby,mathplotlib,sklearn.cluster and other libraries to perform various functions to the data provided.First by Exploartory data analysis we analyzed data,found IQD,zscore and heatmap of the analyzed data.
 
